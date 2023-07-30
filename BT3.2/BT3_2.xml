@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BT3_2.xslt"?>
+
+<congty tencty="Cty01">
+	<donvi madv="DV01">
+		<tendv>Don vi 01</tendv>
+		<dienthoai>0123445555</dienthoai>
+		<nhanvien>
+			<manv>NV01</manv>
+			<hoten>Nguyen Van A</hoten>
+			<ngaysinh>2023-07-07</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<ngaycong>20</ngaycong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV02</manv>
+			<hoten>Nguyen Van 1</hoten>
+			<ngaysinh>2023-07-07</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<ngaycong>18</ngaycong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV02</manv>
+			<hoten>Nguyen Van 2</hoten>
+			<ngaysinh>2023-07-07</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<ngaycong>25</ngaycong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV03</manv>
+			<hoten>Nguyen Van 3</hoten>
+			<ngaysinh>2023-07-07</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<ngaycong>30</ngaycong>
+		</nhanvien>
+	</donvi>
+</congty>

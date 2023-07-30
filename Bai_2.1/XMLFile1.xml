@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty xmlns="http://tempuri.org/XMLSchema1.xsd">
+	<donvi madv="DV01">
+		<tennv>Don vi 01</tennv>
+		<dienthoai>0123445555</dienthoai>
+		<nhanvien>
+			<manv>NV01</manv>
+			<hoten>Nguyen Van A</hoten>
+			<ngaysinh>2023-07-07</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>
